@@ -11,7 +11,7 @@ namespace Tyuiu.AbramenkoAS.Sprint3.Task5.V2
             Console.Title = "Спринт #3 | Выполнилa: Абраменко А. С. | ИБКСб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Воженные циклы                                                    *");
+            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #2                                                              *");
             Console.WriteLine("* Выполнила: Абраменко А. С. | ИБКСб-26-1                                 *");
